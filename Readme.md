@@ -115,23 +115,25 @@ Xcode Themes
 
   ![SolarizedLight]
 
-*  Space Gray: A Hyperminimal Theme. Found [here][spacegrayurl]
+* Space Gray: A Hyperminimal Theme. Found [here][spacegrayurl]
 
   ![SpaceGray]
 
-*   Spacedust: This amazing theme was created by Mikael Hallendal (m5h).
+* Spacedust: This amazing theme was created by Mikael Hallendal (m5h).
 
-  ![Spacedust]
+![Spacedust]
 
-*  Tomorrow Theme: A Pastel Coloured Editor Theme. Found [here][tomorrowurl]
+* SpacedustNNF : Fonts is replaced by Na-Num Font.
+
+* Tomorrow Theme: A Pastel Coloured Editor Theme. Found [here][tomorrowurl]
 
   ![TomorrowNight]
 
-*  Twilight: Port from Textmate's Twilight theme. Found [here][twilighturl]
+* Twilight: Port from Textmate's Twilight theme. Found [here][twilighturl]
 
   ![Twilight]
 
-*  XCasts: a dark theme loosely based on [Ryan Bates](http://railscasts.com/)' excellent [Railscasts theme for Textmate](http://railscasts.com/about). Found [here][xCastsurl]
+* XCasts: a dark theme loosely based on [Ryan Bates](http://railscasts.com/)' excellent [Railscasts theme for Textmate](http://railscasts.com/about). Found [here][xCastsurl]
 
   ![XCasts]
 
@@ -144,13 +146,13 @@ Installation
 
 ### Using the installation script
 
-    $ git clone https://github.com/hdoria/xcode-themes.git
+    $ git clone https://github.com/lum7671/xcode-themes.git
     $ cd xcode-themes
     $ ./install.sh # And then restart Xcode
 
 ### Alternative way
 
-    $ git clone https://github.com/hdoria/xcode-themes.git
+    $ git clone https://github.com/lum7671/xcode-themes.git
     $ cd xcode-themes
     $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     $ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
